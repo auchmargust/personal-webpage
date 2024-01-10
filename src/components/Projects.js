@@ -13,6 +13,7 @@ export const Projects =() => {
       title: "Machine Learning 4 Trading",
       description: "Stock trading strategy formulated with machine learning using Python",
       imgUrl: projImg1,
+      projectUrl: "https://github.com/auchmargust/strategy_evaluation",
     },
   ]
 
@@ -21,6 +22,7 @@ export const Projects =() => {
       title: "Natours",
       description: "A Node.js RESTful web application",
       imgUrl: projImg2,
+      projectUrl: "https://github.com/auchmargust/strategy_evaluation",
     },
   ]
 
@@ -29,6 +31,7 @@ export const Projects =() => {
       title: "Digital Temptations",
       description: "Digital Temptations",
       imgUrl: projImg3,
+      projectUrl: "https://github.com/auchmargust/strategy_evaluation",
     },
   ]
 

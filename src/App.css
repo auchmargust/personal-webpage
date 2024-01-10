@@ -420,6 +420,12 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.8px;
   line-height: 1.1em;
 }
+.proj-txtx h4 a{
+  color: #fefefe !important;
+}
+.proj-txtx h4 a:hover {
+  color: #304D30 !important;
+}
 .proj-txtx span {
   font-style: italic;
   font-weight: 400;
